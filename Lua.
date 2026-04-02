@@ -1,1 +1,9 @@
-L
+game.Players.PlayerAdded:Connect(function(plr)
+
+--câu lệnh if của bạn ở đây
+
+plr:Kick("bạn đang exploit")
+
+end
+
+end)
